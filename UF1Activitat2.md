@@ -150,11 +150,14 @@ https://www.geeksforgeeks.org/generating-random-number-range-c/
 
 
 
+# LLENGUATGE MV
+
+## PYTHON
 
 
 
 
-
+![image](https://user-images.githubusercontent.com/114908591/195212545-ca4675a9-1678-410c-8b58-1b634c169593.png)
 
 
 
@@ -162,17 +165,37 @@ https://www.geeksforgeeks.org/generating-random-number-range-c/
 
 Aquí hem instal·lat el python3.
 
+
+![image](https://user-images.githubusercontent.com/114908591/195212608-ba2f4937-ff5f-4ce9-8d63-042a5db7ca97.png)
+
+
+
 Amb el touch creem un fitxer.
 EL “chmod +x” és per a passar de codi font a codi executable.
 
 
+![image](https://user-images.githubusercontent.com/114908591/195212696-873271ef-71b7-4ea8-bf2e-88a258c2011a.png)
+
+
+
 Aquest és el codi.
+
+
+
+![image](https://user-images.githubusercontent.com/114908591/195212734-ccc4a7fe-ccfa-497d-9794-de157fb1786a.png)
+
 
 
 El resultat.
 Python3 és per a mostrar el resultat.
 
 A bytecode:
+
+
+
+![image](https://user-images.githubusercontent.com/114908591/195212785-e06593b7-eec9-4b1f-b2c9-8da0994684b1.png)
+
+
 
 
 el nom de l’executable és .py.
