@@ -8,22 +8,33 @@ No es tradueix tot de cop i s’executa directament el codi màquina sinó que l
 
 ###### EXEMPLE :
 
+![image](https://user-images.githubusercontent.com/114908591/195207824-f3afec8c-86fe-4c72-93ee-08beeeb62a47.png)
 
 
-Descarguem el ruby.
+Descarguem el ruby
+
+![image](https://user-images.githubusercontent.com/114908591/195208010-2d276b7a-e1fe-48b6-a8e4-a1a17601d3ae.png)
 
 
 Aquí hem mirat la versió.
+
+![image](https://user-images.githubusercontent.com/114908591/195208069-b384d113-6038-48ec-89c4-692cdb7a80cd.png)
 
 
 Amb el nano hem creat un hello world.
 
 
+![image](https://user-images.githubusercontent.com/114908591/195208112-458f6f4d-975c-4f65-9d63-a897d28504c9.png)
+
+
 El nom de l’executable és .rb (hello_world.rb).
 Ruby és l’executable.
+![image](https://user-images.githubusercontent.com/114908591/195208145-206e8755-d538-4dcb-8974-c113af18b2e5.png)
 
 
 Aquí hem posat un exemple, el “irb” serveix per a fer operacions.
+![image](https://user-images.githubusercontent.com/114908591/195208196-fc88873d-18ce-431a-aea0-483d23b7e6fc.png)
+![image](https://user-images.githubusercontent.com/114908591/195208262-00ba2e3d-0b34-444d-9ae5-b5714c835a59.png)
 
 
 
