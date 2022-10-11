@@ -29,11 +29,17 @@ Amb el nano hem creat un hello world.
 
 El nom de l’executable és .rb (hello_world.rb).
 Ruby és l’executable.
+
+
 ![image](https://user-images.githubusercontent.com/114908591/195208145-206e8755-d538-4dcb-8974-c113af18b2e5.png)
 
 
 Aquí hem posat un exemple, el “irb” serveix per a fer operacions.
+
+
 ![image](https://user-images.githubusercontent.com/114908591/195208196-fc88873d-18ce-431a-aea0-483d23b7e6fc.png)
+
+
 ![image](https://user-images.githubusercontent.com/114908591/195208262-00ba2e3d-0b34-444d-9ae5-b5714c835a59.png)
 
 
@@ -104,6 +110,7 @@ El compilador no és més que un traductor entre el llenguatge d’alt nivell i 
 	- Fàcil depuració.
 
 
+![image](https://user-images.githubusercontent.com/114908591/195209216-c36e65f8-80fa-42d6-9d9e-cd6b48c7ef36.png)
 
 
 
@@ -114,9 +121,16 @@ El “gcc -o ___” és el comando per a passar de codi font a codi executable.
 El nom de l’executable és .c.
 
 
+![image](https://user-images.githubusercontent.com/114908591/195209254-6bf0448c-c30f-464e-b30d-4e4276eec131.png)
+
 
 Hem creat amb el gedit un fitxer i hem ficat aquest codi per a que ens digue un número aleatori de l’1 al 6:
 
+
+![image](https://user-images.githubusercontent.com/114908591/195209324-2f443b49-bd79-4e1e-a2b5-d201f4c9e4d6.png)
+
+
+![image](https://user-images.githubusercontent.com/114908591/195209408-07b587e1-5ac7-4f6c-972d-f790be63a686.png)
 
 
 
